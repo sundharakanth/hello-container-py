@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello World, from GitHub Pull Request (Second Time)!"
+    return "Hello World, from GitHub Pull Request (Second Time - GCP Lab 300)!"
 
 
 if __name__ == "__main__":
